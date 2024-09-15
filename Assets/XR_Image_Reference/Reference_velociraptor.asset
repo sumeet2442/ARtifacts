@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Reference_velociraptor
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4688792662016903370
+  m_GuidHigh: 16616278403175943856
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5022054648967839203
+      m_GuidHigh: 12452263777165276066
+    m_SerializedTextureGuid:
+      m_GuidLow: 2050401688810497314
+      m_GuidHigh: 2214397889691438984
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: velociraptor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5505344375122880836
+      m_GuidHigh: 1173967038764853943
+    m_SerializedTextureGuid:
+      m_GuidLow: 6932358030471695245
+      m_GuidHigh: 9655722178532017496
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: teranodon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4753782895437198471
+      m_GuidHigh: 2763112716361084830
+    m_SerializedTextureGuid:
+      m_GuidLow: 11854713581570502727
+      m_GuidHigh: 17949934993777850472
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: pachysaur
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5297572013674890567
+      m_GuidHigh: 8058328494204843197
+    m_SerializedTextureGuid:
+      m_GuidLow: 2329637919613357730
+      m_GuidHigh: 13271644795857786074
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: sphinx
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4827879703514294845
+      m_GuidHigh: 13537999857771912079
+    m_SerializedTextureGuid:
+      m_GuidLow: 4567913600209639089
+      m_GuidHigh: 2460190272028303097
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mars
+    m_Texture: {fileID: 2800000, guid: b12bd6b17d373f64f95e1e8c045a2422, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4754351960692889497
+      m_GuidHigh: 15010797874974077315
+    m_SerializedTextureGuid:
+      m_GuidLow: 5270450437756753057
+      m_GuidHigh: 11372727351875378506
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 0}
