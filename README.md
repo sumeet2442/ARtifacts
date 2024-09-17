@@ -36,7 +36,6 @@ Screenshots
 <img src="Screenshots/Velociraptor_Static.png"/> 
 <img src="Screenshots/Sphinx_Trigger.png"/> 
 <img src="Screenshots/Sphinx_Model.png"/> 
-<img src="Screenshots/Velociraptor_Static.png"/> 
 <img src="Screenshots/Earth_Trigger.png"/> 
 <img src="Screenshots/Earth_Model.png"/> 
 <img src="Screenshots/Infoboard.png"/> 
