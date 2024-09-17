@@ -3,11 +3,10 @@ PROJECT: ARtifacts - AR Based Museum Application
 Traditional Museum visits involve watching the Artifacts along with their infoboards either hanged on the wall or take up space on the ground with the help of stands which takes up a lot of space in the museum.<br>
 This space can be used to display more exhibits and valuable information about some other exhibit.<br>
 Also the fossils that are present as the exhibit in the museum only gives a vague idea about the exticnt animal/bird/insect looks and their body structure like when they were alive in large numbers.<br>
-ARtifacts application give the visitors and immersive experince ast they also get to witness the above mentioned point without making the Museum owner worry about available space.<br><br><br>
+ARtifacts application give the visitors and immersive experince ast they also get to witness the above mentioned point without making the Museum owner worry about available space.<br><br>
 
 The ARtifacts Application is an innovative mobile app designed to transform the traditional museum visit through the power of augmented reality (AR).<br>
-Visitors can make use of their available smartphones with them which will enable them to scan the artifacts, that will trigger the generation of detailed 3D model and <br>
-display relevant related comprehensive information about each artifact. <br>
+Visitors can make use of their available smartphones with them which will enable them to scan the artifacts, that will trigger the generation of detailed 3D model and display relevant related comprehensive information about each artifact. <br>
 This project is developed with the aim to enhance the educational and interactive experience of museum-visitors/audience by integrating advanced AR technologies within the app. <br>
 
 User's Feature
