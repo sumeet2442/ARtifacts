@@ -5,7 +5,7 @@ This space can be used to display more exhibits and valuable information about s
 Also the fossils that are present as the exhibit in the museum only gives a vague idea about the exticnt animal/bird/insect looks and their body structure like when they were alive in large numbers.<br>
 ARtifacts application give the visitors and immersive experince ast they also get to witness the above mentioned point without making the Museum owner worry about available space.<br><br>
 
-The ARtifacts Application is an innovative mobile app designed to transform the traditional museum visit through the power of augmented reality (AR).<br>
+The ARtifacts Application is an innovative mobile app designed to transform the traditional museum visit through the power of augmented reality (AR) made with the help of Unity3D and AR Foundation plugin.<br>
 Visitors can make use of their available smartphones with them which will enable them to scan the artifacts, that will trigger the generation of detailed 3D model and display relevant related comprehensive information about each artifact. <br>
 This project is developed with the aim to enhance the educational and interactive experience of museum-visitors/audience by integrating advanced AR technologies within the app. <br>
 
@@ -25,6 +25,7 @@ Staff's Feature
     1. Updating an exhibits information/adding additonal information about the same ARtifacts.
     2. Adding new exhibits along with their Augmented Reality 3D models in the museum.
     3. Making some information limited to VIP visitors or putting age restrictions to it.
+
 
 <br>
 
